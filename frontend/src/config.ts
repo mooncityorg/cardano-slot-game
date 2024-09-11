@@ -1,0 +1,32 @@
+export const SPIN_TIME = 8000;
+export const DELAY_TIME = 3000;
+
+export const CASINO_SLOGANS = [
+    "Double or nothing",
+    "Play and earn",
+    "Play to gain",
+    "Earn the bucks",
+    "Stay and play",
+    "Invest little, take more",
+    "Bet all you want",
+    "We aim to please",
+    "Luxury, Gaming, Excitement",
+    "Unleash Your Winning Streak",
+    "Live High Roller Life",
+    "Escape to Jackpot Joy",
+    "Play, Stay, Win",
+    "Elevate Your Gaming Thrills",
+    "Where Fortune Awaits",
+    "Unforgettable Gaming Experience",
+    "Perfect Bet",
+    "Glamour, Gaming, Greatness",
+    "Ultimate Casino Retreat",
+    "Winning Luxury Getaway",
+    "A World of Winning",
+    "Luck and Luxury Combined",
+    "Winning Escape",
+    "Luxury Gaming Haven",
+    "Where Luck Meets Luxury",
+    "A Gamblers' Paradise",
+    "Win Big, Stay Grand",
+]
